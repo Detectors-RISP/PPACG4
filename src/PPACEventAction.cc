@@ -32,7 +32,7 @@
 #include "PPACEventActionMessenger.hh"
 #include "PPACCalorimeterSD.hh"
 #include "PPACCalorHit.hh"
-#include "B4Analysis.hh"
+#include "PPACAnalysis.hh"
 
 #include "G4RunManager.hh"
 #include "G4Event.hh"
